@@ -1,0 +1,79 @@
+body{
+  width: 960px;
+  margin: auto;
+}
+#top-header{
+  background-color: #444444;
+  text-align: right;
+  
+  width: 100%;
+  display: inline-block;
+  margin-right: 10px;
+ 
+  margin-top: 50px;
+}
+
+#top-header span{
+  padding: 10px;
+}
+
+#bottom-header img{
+  margin: 10px 0 10px 20px;
+  float: left;
+}
+
+#bottom-footer{
+  background-color: #444444;
+  text-align: right;
+  
+  width: 100%;
+  display: inline-block;
+  margin-right: 10px;
+ 
+  margin-top: 50px;
+}
+
+  
+
+nav ul li{
+  display: inline-block;
+  margin-right: 10px;
+  float: right;
+  margin-top: 50px;
+}
+
+#hero-section{
+  margin-bottom: 10px;
+
+}
+
+
+
+#x{
+  float: right;
+  margin-right: 10px;
+  border: 1px solid gray;
+  margin-top: 19px;
+}
+
+#words {
+  margin-left: 10px;
+  line-height: 60px;
+}
+
+#gallery {
+  /* float: left; */
+  margin: 20px ;
+  display: inline-block;
+  
+}
+
+
+#twohund {
+  
+  text-align: left;
+}
+
+#bigFour {
+  float: left;
+}
